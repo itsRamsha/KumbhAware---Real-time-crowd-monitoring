@@ -73,4 +73,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
 
 ## 📞 Contact
-For inquiries, reach out at **naqiabidi19@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/naqi-abidi19/).
+For inquiries, reach out at **ramshassiddique@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/ramsha-siddique/).
